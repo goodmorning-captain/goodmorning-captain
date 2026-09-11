@@ -1,0 +1,63 @@
+body {
+	color: black;
+	background-color: #DAC7A4;
+}
+h1, h2, h3 {
+	font-family: Tahoma, sans-serif;
+}
+p {
+	font-family: Arial, sans-serif;
+}
+#page-header {
+	overflow: hidden;
+}
+#main-logo {
+	height: 80px;
+	float: left;
+}
+#profile-photo {
+	height: 100px;
+	float: right;
+	padding-top: 0px;
+}
+#about {
+	padding: 20px;
+	text-align: center;
+}
+#skills {
+	padding: 20px;
+	background-color: #D0B88B;
+}
+#skills table {
+	border-collapse: separate;
+	border-spacing: 10px 5px;
+	font-family: Arial, sans-serif;
+}
+#skills th {
+	padding: 5px 10px;
+	text-align: left;
+}
+#skills td {
+	padding: 5px 25px;
+	text-align: left;
+}
+#projects {
+	padding: 20px;
+	margin-top: 30px;
+	border: 2px solid #E6FAFF;
+	background-color: #C2A46B;
+}
+#projects h3 {
+	padding-left: 3px;
+}
+#projects p {
+	padding-left: 12px;
+}
+#contacts {
+	background-color: #EAD943;
+	padding: 20px;
+	text-align: center;
+	font-size: 18px;
+	background-color: #B5904A;
+}
+
